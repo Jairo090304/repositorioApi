@@ -41,7 +41,8 @@ Futuramente
 </p>
 
 Smart Future
-https://www.canva.com/design/DAFr2HGTtfA/k1GVHnTgwY9ZFdz8ZAVXRA/edit
+ <img src="[https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png](https://www.canva.com/design/DAFr2HGTtfA/k1GVHnTgwY9ZFdz8ZAVXRA/edit)" width="100%"/>
+</p>
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
