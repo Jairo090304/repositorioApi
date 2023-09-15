@@ -40,8 +40,8 @@ Futuramente
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>
 
-# Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
+Smart Future
+https://www.canva.com/design/DAFr2HGTtfA/k1GVHnTgwY9ZFdz8ZAVXRA/edit
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
