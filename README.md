@@ -24,9 +24,13 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 Sprint 0: 14/09/2023
+
 Sprint 1: 11/10/2023
+
 Sprint 2: 08/11/2023
+
 Sprint 3: 29/11/2023
+
 Feira de soluções: 12/12/2023
 
 > Possíveis status: A Fazer, Em Progresso e Concluido
