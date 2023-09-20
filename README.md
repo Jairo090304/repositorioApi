@@ -31,7 +31,7 @@ Sprint | Previsão | Status| Histórico|
 |04| 29/11/2023 | A Fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções|12/12/2023 | A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-> Possíveis status: a fazer, em progresso e concluido
+> Possíveis status: A Fazer, Em Progresso e Concluido
 
 # Micro Certificações
 Futuramente
@@ -52,7 +52,11 @@ SMART FUTURE
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+>Melhorar a eficiencia da manutenção;
+>Implementação da manutenção preventiva e preditiva;
+>Adequação ao Layout da area;
+>Gerenciamento de uso;
+>Treinamento de utilização da máquina.
 
 # Funcionalidades e Demonstrações das Sprints
 
