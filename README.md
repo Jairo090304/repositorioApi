@@ -8,7 +8,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 * [Projeto (API)](#projeto-api)
 * [Micro Certificações](#micro-certificações)
-* [Equipe](#equipe)
+* [Smart Future](#smart-future)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
 * [Cronograma das Sprints](#cronograma-das-sprints)
@@ -38,27 +38,24 @@ Futuramente
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>
 
-SMART FUTURE
+# SMART FUTURE
 
 <p align="center">
- <img src="https://github.com/Jairo090304/repositorioApi/blob/main/Sprint%201/imagem/WhatsApp%20Image%202023-09-14%20at%2021.55.46.jpeg" width="50%"/>
+ <img src="https://github.com/Jairo090304/repositorioApi/blob/main/Sprint%201/imagem/Slide1.jpg" width="100%"/>
 </p>
 
 
-<p align="center">
- <img src="https://github.com/Jairo090304/repositorioApi/blob/main/Sprint%201/imagem/WhatsApp%20Image%202023-09-19%20at%2021.11.53.jpeg" width="100%"/>
-</p>
 
 # Objetivo do Projeto
->Melhorar a eficiencia da manutenção;
+- Melhorar a eficiencia da manutenção;
 
->Implementação da manutenção preventiva e preditiva;
+- Implementação da manutenção preventiva e preditiva;
 
->Adequação ao Layout da area;
+- Adequação ao Layout da area;
 
->Gerenciamento de uso;
+- Gerenciamento de uso;
 
->Treinamento de utilização da máquina.
+- Treinamento de utilização da máquina.
 
 # Funcionalidades e Demonstrações das Sprints
 
