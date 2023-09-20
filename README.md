@@ -42,6 +42,10 @@ Futuramente
 
 Smart Future
  colocar logo
+<p align="center">
+ <img src="https://github.com/Jairo090304/repositorioApi/blob/main/Sprint%201/imagem/WhatsApp%20Image%202023-09-14%20at%2021.55.46.jpeg" width="100%"/>
+</p>
+
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
