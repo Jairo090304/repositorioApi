@@ -52,15 +52,15 @@ SMART FUTURE
 </p>
 
 # Objetivo do Projeto
->Melhorar a eficiencia da manutenção
+>Melhorar a eficiencia da manutenção;
 
->Implementação da manutenção preventiva e preditiva
+>Implementação da manutenção preventiva e preditiva;
 
->Adequação ao Layout da area
+>Adequação ao Layout da area;
 
->Gerenciamento de uso
+>Gerenciamento de uso;
 
->Treinamento de utilização da máquina
+>Treinamento de utilização da máquina.
 
 # Funcionalidades e Demonstrações das Sprints
 
