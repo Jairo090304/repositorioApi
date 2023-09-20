@@ -40,8 +40,8 @@ Futuramente
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>
 
-Smart Future
- colocar logo
+SMART FUTURE
+
 <p align="center">
  <img src="https://github.com/Jairo090304/repositorioApi/blob/main/Sprint%201/imagem/WhatsApp%20Image%202023-09-14%20at%2021.55.46.jpeg" width="50%"/>
 </p>
