@@ -23,13 +23,11 @@ Uso de estratégias para entender o problema, conceber uma solução viável ao 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
 Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | 06/09/2023 | Concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01| 14/09/2023 | Concluido | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02| 11/10/2023 | Em Progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 08/11/2023 | A Fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| 29/11/2023 | A Fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|Feira de Soluções|12/12/2023 | A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+Sprint 0: 14/09/2023
+Sprint 1: 11/10/2023
+Sprint 2: 08/11/2023
+Sprint 3: 29/11/2023
+Feira de soluções: 12/12/2023
 
 > Possíveis status: A Fazer, Em Progresso e Concluido
 
