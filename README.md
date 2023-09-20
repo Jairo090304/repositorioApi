@@ -48,7 +48,7 @@ SMART FUTURE
 
 
 <p align="center">
- <img src="[https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png](https://github.com/Jairo090304/repositorioApi/blob/main/Sprint%201/imagem/WhatsApp%20Image%202023-09-19%20at%2021.11.53.jpeg)" width="100%"/>
+ <img src="https://github.com/Jairo090304/repositorioApi/blob/main/Sprint%201/imagem/WhatsApp%20Image%202023-09-19%20at%2021.11.53.jpeg" width="100%"/>
 </p>
 
 # Objetivo do Projeto
