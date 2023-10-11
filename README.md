@@ -134,18 +134,18 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 1 - Concepção
 
-- [x] "Visita técnica ao CCM-ITA"
-- [x] "Análise de problemas com possiveis soluções através da gestão"
-- [x] "Definição de tema abordado pelo grupo"
-- [x] "Pesquisas de melhorias no ambiente de trabalho"
-- [x] "Reconhecimento teritorial de falhas de layout"
-- [x] "Identificação de possiveis riscos ao operador"
-- [x] "Mapeamento de risco da sala - Bancada RP "
-- [x] "Elaboração de um novo layout"
-- [x] "Atualização do mapa de risco conforme o layout atualizado"
-- [x] "Reunião com o cliente"
-- [x] "Demonstração referente aos possiveis ganhos com proposta"
-- [x] "Feedback do cliente"
+- [x] Visita técnica ao CCM-ITA
+- [x] Análise de problemas com possiveis soluções através da gestão
+- [x] Definição de tema abordado pelo grupo
+- [x] Pesquisas de melhorias no ambiente de trabalho
+- [x] Reconhecimento teritorial de falhas de layout
+- [x] Identificação de possiveis riscos ao operador
+- [x] Mapeamento de risco da sala - Bancada RP
+- [x] Elaboração de um novo layout
+- [x] Atualização do mapa de risco conforme o layout atualizado
+- [x] Reunião com o cliente
+- [x] Demonstração referente aos possiveis ganhos com proposta
+- [x] Feedback do cliente
 
 
 ## Sprint 2 - Desenvolvimento do Projeto
