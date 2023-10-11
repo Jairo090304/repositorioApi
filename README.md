@@ -42,6 +42,12 @@ Futuramente
 # SMART FUTURE
 
 <p align="center">
+ <img src="[https://github.com/Jairo090304/repositorioApi/blob/main/Sprint%201/imagem/Slide1.jpg](https://github.com/Jairo090304/repositorioApi/blob/main/Sprint%201/imagem/Logo%20Smart%20Future.pdf)" width="100%"/>
+</p>
+
+# EQUIPE
+
+<p align="center">
  <img src="https://github.com/Jairo090304/repositorioApi/blob/main/Sprint%201/imagem/Slide1.jpg" width="100%"/>
 </p>
 
