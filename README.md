@@ -64,7 +64,8 @@ Futuramente
 >Descrever aqui o que foi entregue na sprint
 >Colocar o vídeo da apresentação
 
->[![Sprint 1](https://img.youtube.com/vi/https://www.youtube.com/watch?v=ACjGvD6zVyA)](https://www.youtube.com/embed/https://www.youtube.com/watch?v=ACjGvD6zVyA)
+[![Sprint 1](https://img.youtube.com/vi/ACjGvD6zVyA)](https://www.youtube.com/embed/ACjGvD6zVyA)
+
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
