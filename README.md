@@ -133,8 +133,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
->- [x] "Visita técnica ao CCM-ITA"
+
+- [x] "Visita técnica ao CCM-ITA"
 - [x] "Análise de problemas com possiveis soluções através da gestão"
 - [x] "Definição de tema abordado pelo grupo"
 - [x] "Pesquisas de melhorias no ambiente de trabalho"
