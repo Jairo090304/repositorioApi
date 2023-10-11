@@ -68,7 +68,7 @@ Futuramente
 
 ## Sprint 1
 
->[![Sprint 1](https://img.youtube.com/vi/ACjGvD6zVyA)](https://www.youtube.com/embed/ACjGvD6zVyA)
+>[![Sprint 1](https://img.youtube.com/vi/"ACjGvD6zVyA")](https://www.youtube.com/embed/"ACjGvD6zVyA")
 
 
 <p align="center">
