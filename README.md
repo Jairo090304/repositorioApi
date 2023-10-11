@@ -70,7 +70,7 @@ Futuramente
 >Descrever aqui o que foi entregue na sprint
 >Colocar o vídeo da apresentação
 
-[![Sprint 1](https://img.youtube.com/vi/ACjGvD6zVyA)](https://www.youtube.com/embed/ACjGvD6zVyA)
+[![Sprint 1](https://img.youtube.com/vi/watch?v=ACjGvD6zVyA)](https://www.youtube.com/embed/watch?v=ACjGvD6zVyA)
 
 
 <p align="center">
