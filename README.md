@@ -68,8 +68,7 @@ Futuramente
 
 ## Sprint 1
 
->[![Sprint 1](https://img.youtube.com/vi/ACjGvD6zVyA)](https://www.youtube.com/embed/ACjGvD6zVyA)
-
+[![SPRINT 1](https://img.youtube.com/vi/ACjGvD6zVyA/0.jpg)](https://youtu.be/ACjGvD6zVyA)
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
