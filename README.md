@@ -134,12 +134,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] 
 - [x] 
 - [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
       
 ## Sprint 3 - Implementação
 
@@ -148,13 +148,13 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] 
 - [x] 
 - [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
+- [] 
       
 ## Sprint 4 - Operacionalização
 
