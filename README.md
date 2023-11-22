@@ -76,9 +76,8 @@ Futuramente
 
 ## Sprint 2
 
-[![SPRINT 1](https://img.youtube.com/vi/GHGGRukg-PE.jpg)](https://youtu.be/GHGGRukg-PE)
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+[![SPRINT 2](https://img.youtube.com/vi/GHGGRukg-PE.jpg)](https://youtu.be/GHGGRukg-PE)
+
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
