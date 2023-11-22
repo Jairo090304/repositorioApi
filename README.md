@@ -76,7 +76,7 @@ Futuramente
 
 ## Sprint 2
 
-[![SPRINT 1](https://img.youtube.com/vi/ACGHGGRukg-PE.jpg)](https://youtu.be/ACGHGGRukg-PE)
+[![SPRINT 1](https://img.youtube.com/vi/GHGGRukg-PE.jpg)](https://youtu.be/GHGGRukg-PE)
 >Descrever aqui o que foi entregue na sprint
 >Colocar o vídeo da apresentação
 
