@@ -70,13 +70,9 @@ Futuramente
 
 [![SPRINT 1](https://img.youtube.com/vi/ACjGvD6zVyA/0.jpg)](https://youtu.be/ACjGvD6zVyA)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
-</p>
-
 ## Sprint 2
 
-[![SPRINT 2](https://img.youtube.com/vi/GHGGRukg-PE.jpg)](https://youtu.be/GHGGRukg-PE)
+[![SPRINT 2](https://img.youtube.com/vi/GHGGRukg-PE/0.jpg)](https://youtu.be/GHGGRukg-PE)
 
 
 <p align="center">
