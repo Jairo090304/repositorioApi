@@ -110,7 +110,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 >Colocar aqui Burndown do projeto
 
 
-## Sprint 1 - Concepção
+## Sprint 1 - Análise de risco e layout da área
 
 - [x] Visita técnica ao CCM-ITA
 - [x] Análise de problemas com possiveis soluções através da gestão
@@ -126,20 +126,20 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Feedback do cliente
 
 
-## Sprint 2 - Desenvolvimento do Projeto
+## Sprint 2 -Inspeção de máquina e relatório de defeitos e causas
 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
+- [x] Análise de máquina e equipamentos
+- [x] Inspeção de máquina de acordo com a NR 11, 12 e 31
+- [x] Visita técnica
+- [x] Relatório de defeitos e suas causas
+- [x] Criação de checklist de manutenção preditiva
+
+  
+ 
+  
+  
+  
+
       
 ## Sprint 3 - Implementação
 
@@ -156,20 +156,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [] 
 - [] 
       
-## Sprint 4 - Operacionalização
-
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
 
 
 # Competências desenvolvidas
