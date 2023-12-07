@@ -25,9 +25,9 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kickoff|14/09/2023| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |00 | 14/09/2023| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 11/10/2023 | em progresso| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02| 08/11/2023| a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 29/11/2023 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01 | 11/10/2023 | concluido | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02| 08/11/2023| concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 07/12/2023 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
@@ -134,6 +134,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Visita técnica
 - [x] Relatório de defeitos e suas causas
 - [x] Criação de checklist de manutenção preditiva
+- [x] Elaboração de apresentação para cliente
+- [x] Apresentação e conversa com o cliente referente ao processo de identificação de falhas e problemas
+- [x] Análise do feedback do cliente
+- [x] Implementar melhorias no projeto
 
   
  
@@ -144,18 +148,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
       
 ## Sprint 3 - Implementação
 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
+- [x] Realizar melhorias no check-list da sprint anterior 
+- [x] Novas funcoes do checklist que permitem elaboração de gráficos e relatórios
+- [x] Elaborado novas questões para auxiliar o check-list
+- [x] Utilização de dois check-lists diferentes para início do uso da máquina e fim de uso 
+- [x] Conexão entre relatórios e gráficos com o e-mail do responsável pela máquina
+- [x] Elaboração de apresentação para o cliente 
+- [] Análise do feedback do cliente
+
       
 
 
