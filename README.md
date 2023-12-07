@@ -79,20 +79,20 @@ Futuramente
 [![SPRINT 3](https://img.youtube.com/vi/P9FvWOj9Fuc/0.jpg)](https://youtu.be/P9FvWOj9Fuc)
 
 
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
+## Apresentação final
+
 
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
 
-### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
-  
-### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+Canvas
+Excel
+PowerBi
+GitHub
+Pacote Office 
+Google Forms
+
 
 # Cronograma das Sprints
 
@@ -154,7 +154,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Utilização de dois check-lists diferentes para início do uso da máquina e fim de uso 
 - [x] Conexão entre relatórios e gráficos com o e-mail do responsável pela máquina
 - [x] Elaboração de apresentação para o cliente 
-- [] Análise do feedback do cliente
+- [ ] Análise do feedback do cliente
 
       
 
