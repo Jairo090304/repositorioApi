@@ -86,12 +86,12 @@ Futuramente
 ## Tecnologias Utilizadas
 ### Produto 
 
-Canvas
-Excel
-PowerBi
-GitHub
-Pacote Office 
-Google Forms
+- Canvas
+- Excel
+- PowerBi
+- GitHub
+- Pacote Office 
+- Google Forms
 
 
 # Cronograma das Sprints
