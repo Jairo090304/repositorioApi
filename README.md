@@ -78,7 +78,6 @@ Futuramente
 
 [![SPRINT 3](https://img.youtube.com/vi/P9FvWOj9Fuc/0.jpg)](https://youtu.be/P9FvWOj9Fuc)
 
-## Sprint 4
 
 ## Apresentação final (se necessario)
 Vídeo com a apresentação final da API do "semestre/ano"
