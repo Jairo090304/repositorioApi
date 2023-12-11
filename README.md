@@ -99,7 +99,7 @@ Futuramente
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)]https://github.com/users/AndreLuizRibeiro/projects/4
+#### Cronograma das Sprints[(clique aqui)]https://github.com/users/Jairo090304/projects/2/views/1
 
 ## Backlog do produto
 >Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
