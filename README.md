@@ -32,13 +32,6 @@ Sprint | Previsão | Status|
 
 
 
-# Micro Certificações
-Futuramente
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-
 # SMART FUTURE
 
 <p align="center">
@@ -83,8 +76,7 @@ Futuramente
 
 
 
-## Tecnologias Utilizadas
-### Produto 
+## Softwares Utilizados
 
 - Canvas
 - Excel
@@ -92,6 +84,7 @@ Futuramente
 - GitHub
 - Pacote Office 
 - Google Forms
+- Fusion 360
 
 
 # Cronograma das Sprints
