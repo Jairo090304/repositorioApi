@@ -108,6 +108,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Burndown
 >Colocar aqui Burndown do projeto
+>![WhatsApp Image 2023-12-07 at 21 00 55](https://github.com/Jairo090304/repositorioApi/assets/144187026/bac60898-4a0b-466c-adf6-fc61043f601f)
+![WhatsApp Image 2023-12-07 at 21 01 02](https://github.com/Jairo090304/repositorioApi/assets/144187026/8e1c8515-4129-4270-b527-99f994e003ce)
+
 
 
 ## Sprint 1 - Análise de risco e layout da área
@@ -153,7 +156,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Utilização de dois check-lists diferentes para início do uso da máquina e fim de uso 
 - [x] Conexão entre relatórios e gráficos com o e-mail do responsável pela máquina
 - [x] Elaboração de apresentação para o cliente 
-- [ ] Análise do feedback do cliente
+- [x] Análise do feedback do cliente
 
       
 
