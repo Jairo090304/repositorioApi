@@ -38,7 +38,7 @@ Sprint | Previsão | Status|
  <img src="https://github.com/Jairo090304/repositorioApi/blob/main/Sprint%201/imagem/Logo%20SmartFuture.PNG" width="100%"/>
 </p>
 
-![TechProd_Solutions](https://github.com/user-attachments/assets/f29be257-1789-4499-bfdb-80f0bc9213c6)
+
 # EQUIPE
 
 <p align="center">
